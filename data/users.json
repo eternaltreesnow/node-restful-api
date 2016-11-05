@@ -1,0 +1,26 @@
+{
+    "usr1": {
+        "id": 1,
+        "name": "user1",
+        "password": "pwd1",
+        "profession": "teacher"
+    },
+    "usr2": {
+        "id": 2,
+        "name": "user2",
+        "password": "pwd2",
+        "profession": "teacher"
+    },
+    "usr3": {
+        "id": 3,
+        "name": "user3",
+        "password": "pwd3",
+        "profession": "teacher"
+    },
+    "usr4": {
+        "id": 4,
+        "name": "user4",
+        "password": "pwd4",
+        "profession": "teacher"
+    }
+}
